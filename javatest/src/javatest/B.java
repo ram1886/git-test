@@ -1,6 +1,6 @@
 package javatest;
 
-public class A {
+public class B {
 
 	static int a=20;
 	static int b=30;
