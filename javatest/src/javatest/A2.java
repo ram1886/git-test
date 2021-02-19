@@ -12,4 +12,4 @@ public class A2 {
 		System.out.println(a-b);
 		
 	}
-}
+} 
