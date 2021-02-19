@@ -1,9 +1,8 @@
 package javatest;
 
-public class B {
+public class C {
 
-	static int a=20; 
-	
+	static int a=20;
 	static int b=30;
 	
 	
